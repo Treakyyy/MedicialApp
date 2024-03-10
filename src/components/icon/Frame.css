@@ -1,0 +1,4 @@
+.Frame-Container{
+    display: grid;
+    grid-template-columns: 0px 1fr;
+}

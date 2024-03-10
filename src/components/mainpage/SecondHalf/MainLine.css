@@ -1,0 +1,11 @@
+.MainLine{
+    color: rgba(1, 69, 122);
+    background: linear-gradient(90deg, #FDD966 0%, #BCD77E 68.54%);
+    border: 1px solid transparent;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 30px;
+}
+.MainLine1{
+    color: rgba(1, 69, 122);
+}

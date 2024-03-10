@@ -1,0 +1,15 @@
+.Header-Text{
+    font-family: Century Gothic;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #01457A;
+    z-index: 1;
+}
+.Header-Container-First{
+    padding: 0px 0px 0px 30px;
+    display: grid;
+    grid-template-columns: 15px 1fr;
+}
