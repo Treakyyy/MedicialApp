@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MedicialApp/static/css/main.badd529a.css",
+    "main.js": "/MedicialApp/static/js/main.a33b0fc8.js",
+    "static/media/HeaderImg.png": "/MedicialApp/static/media/HeaderImg.54173dfe6e9dd1eb31a8.png",
+    "static/media/ColorFrame.png": "/MedicialApp/static/media/ColorFrame.482be193a9c606a8d0a5.png",
+    "index.html": "/MedicialApp/index.html",
+    "main.badd529a.css.map": "/MedicialApp/static/css/main.badd529a.css.map",
+    "main.a33b0fc8.js.map": "/MedicialApp/static/js/main.a33b0fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.badd529a.css",
+    "static/js/main.a33b0fc8.js"
+  ]
+}
