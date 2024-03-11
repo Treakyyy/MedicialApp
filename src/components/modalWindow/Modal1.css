@@ -8,3 +8,12 @@
     text-align: left;
     margin-left: 150px;
 }
+.Button-Close{
+    border: none;
+    background-color: transparent;
+    color: rgba(1, 69, 122, 1);
+    cursor: pointer;
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 400;
+}

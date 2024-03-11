@@ -18,3 +18,8 @@
     line-height: 33px;
     text-align: left;
 }
+.Finger-Btn{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
