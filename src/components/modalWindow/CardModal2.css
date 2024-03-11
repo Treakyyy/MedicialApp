@@ -1,0 +1,36 @@
+.Card-Number{
+    font-family: Noto Sans;
+    font-size: 96px;
+    font-weight: 700;
+    text-align: center;
+    color: rgba(1, 69, 122);
+}
+.Card{
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background: rgba(253, 217, 102, 0.25);
+    width: 367px;
+    padding: 30px;
+}
+.Conteiner-Card-Modal2{
+    display: flex;
+    gap: 54px;
+}
+.Card-Text-Modal2-Body{
+    font-family: Noto Sans;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(1, 69, 122);
+}
+.Card-Text-Modal2-Footer{
+    color: rgba(1, 69, 122);
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+}
