@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import './ContentFirstHalf.css'
 import IconPeople from '../../icon/IconPeople';
-import Frame from '../../icon/Frame';
 import IconArrow from '../../icon/IconArrow';
 import Finger1 from '../../icon/Finger1';
 import Finger2 from '../../icon/Finger2';
 import Modal1 from '../../modalWindow/Modal1';
 import Modal2 from '../../modalWindow/Modal2';
+import Frame1 from '../../icon/Frame1';
+import Frame2 from '../../icon/Frame2';
 
 const ContentFirstHalf = () => {
 
@@ -33,13 +34,13 @@ const ContentFirstHalf = () => {
         <div>
             <div className="Content-Container-FirstHalf">
                 <IconPeople/>
-                <Frame></Frame>
+                <Frame1/>
                 <p className='Text-Content-First'>В десятилетнем исследовании «Генетическая эпидемиология <br /> ХОБЛ» (COPDGene) среди пациентов с ХОБЛ, <br /> диагностированной до 55 лет, было выявлено преобладание...</p>
                 <button className='Finger-Btn' onClick={openModal1}><Finger1/></button>
             </div>
             <div className="Content-Container-FirstHalf">
                 <IconArrow/>
-                <Frame></Frame>
+                <Frame2/>
                 <p className='Text-Content-First'>Большинство пациентов с ХОБЛ столкнется с обострениями: <br /> как минимум одно среднетяжелое или тяжелое обострение <br /> случится в течение...</p>
                 <button className='Finger-Btn'  onClick={openModal2}><Finger2/></button>
             </div>

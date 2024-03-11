@@ -10,19 +10,19 @@ const CardModal2 = () => {
             <div className='Card'>
                 <Heart/>
                 <p className='Card-Number'>45,5%</p>
-                <p className='Card-Text-Modal2-Body'>пациентов с сердечной недостаточностью1</p>
+                <p className='Card-Text-Modal2-Body'>пациентов <b>с сердечной недостаточностью1</b></p>
                 <p className='Card-Text-Modal2-Footer'>Популяционное когортное исследование (N=385)</p>
             </div>
             <div className='Card'>
                 <PeopleCard/>
                 <p className='Card-Number'>55,3%</p>
-                <p className='Card-Text-Modal2-Body'>пациентов с инфарктом миокарда1</p>
+                <p className='Card-Text-Modal2-Body'>пациентов с <b>инфарктом миокарда1</b></p>
                 <p className='Card-Text-Modal2-Footer'>Апостериорный анализ когортного исследования (N=2887)</p>
             </div>
             <div className='Card'>
                 <Buble/>
                 <p className='Card-Number'>50,5%</p>
-                <p className='Card-Text-Modal2-Body'>пациентов с раком мочевого пузыря</p>
+                <p className='Card-Text-Modal2-Body'>пациентов с <b>раком мочевого пузыря</b></p>
                 <p className='Card-Text-Modal2-Footer'>Исследование Национальной статистической службы (N=42642)</p>
             </div>
         </div>
